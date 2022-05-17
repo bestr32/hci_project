@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/hci_project/static/css/main.ee93a5ef.css",
+    "main.js": "/hci_project/static/js/main.634b7a07.js",
+    "static/js/787.232ed522.chunk.js": "/hci_project/static/js/787.232ed522.chunk.js",
+    "static/media/lum.png": "/hci_project/static/media/lum.90140389a16595e2125d.png",
+    "static/media/logo.png": "/hci_project/static/media/logo.af68bb13c3ced7cc6e90.png",
+    "index.html": "/hci_project/index.html",
+    "main.ee93a5ef.css.map": "/hci_project/static/css/main.ee93a5ef.css.map",
+    "main.634b7a07.js.map": "/hci_project/static/js/main.634b7a07.js.map",
+    "787.232ed522.chunk.js.map": "/hci_project/static/js/787.232ed522.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee93a5ef.css",
+    "static/js/main.634b7a07.js"
+  ]
+}
